@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,52,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,2,80,80,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:13.47,Default,,0,0,0,,Atenção! O lobo mau está soprando com toda\Na força… e a casinha de palha está quase\Ncaindo! Será que os três porquinhos vão se\Nsalvar? Fica comigo até o final, porque
+Dialogue: 0,0:00:13.87,0:00:23.21,Default,,0,0,0,,Esta é a história completa dos Três\NPorquinhos versus o Lobo Mau. Uma aventura\Nde coragem, trabalho e amizade… perfeita\Npara assistir junto com a família.
+Dialogue: 0,0:00:23.71,0:00:43.35,Default,,0,0,0,,Era uma vez, numa fazendinha ensolarada\Ncheia de flores e passarinhos, uma mamãe\Nporquinha e seus três filhos. Eles\Nbrincavam de esconde-esconde, corriam no
+Dialogue: 0,0:00:43.85,0:01:01.92,Default,,0,0,0,,O primeiro se chamava Pipoca. Pipoca\Ngostava de brincar o dia inteiro, cantar\Nalto e rolar na grama. Ele pensou: Vou\Nfazer uma casa bem rápida… de palha! Assim
+Dialogue: 0,0:01:02.42,0:01:21.46,Default,,0,0,0,,O segundo se chamava Tambor. Tambor era\Nrápido, animado e adorava fazer barulho de\Nmartelo: tóc, tóc, tóc! Ele disse: Eu faço\Nde madeira! É mais forte que palha… e
+Dialogue: 0,0:01:21.96,0:01:44.62,Default,,0,0,0,,Já o terceiro se chamava Tijolinho.\NTijolinho era paciente, caprichoso e muito\Nesperto. Enquanto os irmãos brincavam, ele\Nmisturava argamassa, alinhava tijolo por
+Dialogue: 0,0:01:45.12,0:01:57.64,Default,,0,0,0,,E aí, amiguinho… olha as três casinhas\Nlado a lado! Qual você acha que é a mais\Nsegura? A de palha, a de madeira ou a de\Ntijolo? Pensa bem… conta nos dedos… e
+Dialogue: 0,0:01:59.64,0:02:13.52,Default,,0,0,0,,Pipoca e Tambor dançavam na grama.\NTijolinho arrumava as cortinas floridas\Ndas janelas. Os passarinhos cantavam.\NParecia um dia perfeito… até que, lá
+Dialogue: 0,0:02:14.02,0:02:28.08,Default,,0,0,0,,Era o Lobo Mau! Ele farejou o ar, lambeu\Nos beiços e murmurou: Hmm… porquinhos\Nfresquinhos… que cheirinho gostoso… que\Ndelícia! Mas calma, amiguinho: nesta
+Dialogue: 0,0:02:28.68,0:02:46.52,Default,,0,0,0,,O lobo chegou na casinha de palha e bateu\Nna porta. Toc, toc, toc! Porquinho,\Nporquinho, deixa eu entrar! Pipoca tremeu\Nda orelha ao pezinho e respondeu: Não,
+Dialogue: 0,0:02:46.92,0:03:01.76,Default,,0,0,0,,Fuuuuuu! O vento do lobo foi tão forte que\Na casa de palha voou pelos ares como um\Nmonte de folhas! Palha pra lá, palha pra\Ncá! Pipoca saiu correndo o mais rápido que
+Dialogue: 0,0:03:02.26,0:03:12.74,Default,,0,0,0,,Pipoca chegou ofegante na casa de madeira.\NSerá que a casa de madeira vai aguentar o\Nsopro do lobo? O que você acha? Sim ou\Nnão? Grita comigo a sua opinião!
+Dialogue: 0,0:03:14.74,0:03:34.90,Default,,0,0,0,,Pipoca entrou rapidinho na casa de Tambor.\NOs dois trancaram a porta. O lobo bateu de\Nnovo: Porquinhos, porquinhos, deixem eu\Nentrar! Eles responderam juntos: Não, não,
+Dialogue: 0,0:03:35.30,0:03:51.12,Default,,0,0,0,,Os dois irmãos correram, correram,\Ncorreram pelo caminho de pedrinhas… até a\Ncasa forte e vermelhinha de Tijolinho! Ele\Nabriu a porta pesada e disse: Entram
+Dialogue: 0,0:03:51.62,0:04:03.42,Default,,0,0,0,,Agora o lobo está lá fora, furioso,\Nbufando diante da casa de tijolos. Será\Nque ele consegue derrubar ESTA casa?\NRespira fundo… conta até três… e grita o
+Dialogue: 0,0:04:05.42,0:04:22.35,Default,,0,0,0,,Eu sopro, eu sopro, e a casa cai! O lobo\Nsoprou uma vez… a casa nem balançou.\NSoprou duas vezes… nada! Soprou três vezes\Ncom toda a força do mundo… FUUUUUU! Mas a
+Dialogue: 0,0:04:22.85,0:04:36.51,Default,,0,0,0,,O lobo não desistiu. Ele empurrou a porta.\NEmpurrou a janela. Até deu um tapa no\Nmuro! Mas a casa firme só respondeu com um\Nsilêncio corajoso. Lá dentro, os três
+Dialogue: 0,0:04:37.01,0:04:58.32,Default,,0,0,0,,Então o lobo teve outra ideia\Nespertalhona: Vou entrar pela chaminé! Ele\Nsubiu no telhado bem devagar. Mas\NTijolinho era mais esperto ainda. Acendeu
+Dialogue: 0,0:04:58.82,0:05:18.44,Default,,0,0,0,,Os três porquinhos se abraçaram felizes no\Nmeio da sala. Pipoca pediu desculpas por\Nter tido tanta pressa. Tambor também pediu\Ndesculpas. E Tijolinho disse com um
+Dialogue: 0,0:05:18.94,0:05:41.61,Default,,0,0,0,,E a lição desta história é: fazer as\Ncoisas com cuidado vale a pena. Ter pressa\Ndemais pode trazer problemas… mas juntos,\Ncom amor e trabalho, a gente fica mais

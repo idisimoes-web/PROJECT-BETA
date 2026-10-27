@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s00",
+    "title": "Hook",
+    "pause_after": 0.4,
+    "text": "Atenção! O lobo mau está soprando com toda a força… e a casinha de palha está quase caindo! Será que os três porquinhos vão se salvar? Fica comigo até o final, porque essa história tem surpresa, coragem e muita aventura!"
+  },
+  {
+    "id": "s01",
+    "title": "Titulo",
+    "pause_after": 0.5,
+    "text": "Esta é a história completa dos Três Porquinhos versus o Lobo Mau. Uma aventura de coragem, trabalho e amizade… perfeita para assistir junto com a família."
+  },
+  {
+    "id": "s02",
+    "title": "Familia",
+    "pause_after": 0.5,
+    "text": "Era uma vez, numa fazendinha ensolarada cheia de flores e passarinhos, uma mamãe porquinha e seus três filhos. Eles brincavam de esconde-esconde, corriam no gramado e riam sem parar. Mas um dia, a mamãe juntou todo mundo e disse com carinho: Meus queridos, já estão crescidos. Chegou a hora de cada um construir a sua própria casinha!"
+  },
+  {
+    "id": "s03",
+    "title": "Pipoca",
+    "pause_after": 0.5,
+    "text": "O primeiro se chamava Pipoca. Pipoca gostava de brincar o dia inteiro, cantar alto e rolar na grama. Ele pensou: Vou fazer uma casa bem rápida… de palha! Assim sobra tempo para pular, dançar e comer maçã. Em poucos minutos, a casinha de palha estava pronta. Hmm… será que foi uma boa ideia?"
+  },
+  {
+    "id": "s04",
+    "title": "Tambor",
+    "pause_after": 0.5,
+    "text": "O segundo se chamava Tambor. Tambor era rápido, animado e adorava fazer barulho de martelo: tóc, tóc, tóc! Ele disse: Eu faço de madeira! É mais forte que palha… e ainda dá para brincar depois! Martelou tábuas, pregou a porta, colocou uma janelinha… e pronto! A casa de madeira ficou bonitinha."
+  },
+  {
+    "id": "s05",
+    "title": "Tijolinho",
+    "pause_after": 0.5,
+    "text": "Já o terceiro se chamava Tijolinho. Tijolinho era paciente, caprichoso e muito esperto. Enquanto os irmãos brincavam, ele misturava argamassa, alinhava tijolo por tijolo, conferia se estava reto, e cantarolava baixinho: Devagar e com carinho, a casinha fica firmizinha! Demorou um tempão… o sol subiu, o sol desceu… mas a casa de tijolos ficou linda, quentinha e forte!"
+  },
+  {
+    "id": "s06",
+    "title": "Pergunta1",
+    "pause_after": 2.0,
+    "text": "E aí, amiguinho… olha as três casinhas lado a lado! Qual você acha que é a mais segura? A de palha, a de madeira ou a de tijolo? Pensa bem… conta nos dedos… e grita bem alto a sua resposta!"
+  },
+  {
+    "id": "s07",
+    "title": "DiaBom",
+    "pause_after": 0.5,
+    "text": "Pipoca e Tambor dançavam na grama. Tijolinho arrumava as cortinas floridas das janelas. Os passarinhos cantavam. Parecia um dia perfeito… até que, lá longe, uma sombra grande e peluda apareceu entre as árvores da floresta."
+  },
+  {
+    "id": "s08",
+    "title": "LoboChega",
+    "pause_after": 0.6,
+    "text": "Era o Lobo Mau! Ele farejou o ar, lambeu os beiços e murmurou: Hmm… porquinhos fresquinhos… que cheirinho gostoso… que delícia! Mas calma, amiguinho: nesta história os porquinhos são corajosos e espertos. Vamos ver o que acontece agora!"
+  },
+  {
+    "id": "s09",
+    "title": "CasaPalha",
+    "pause_after": 0.4,
+    "text": "O lobo chegou na casinha de palha e bateu na porta. Toc, toc, toc! Porquinho, porquinho, deixa eu entrar! Pipoca tremeu da orelha ao pezinho e respondeu: Não, não, e não! Nem pelo cabelo do meu queixo! Então o lobo encheu o peito e cantou o refrão: Eu sopro, eu sopro, e a casa cai!"
+  },
+  {
+    "id": "s10",
+    "title": "PalhaCai",
+    "pause_after": 0.5,
+    "text": "Fuuuuuu! O vento do lobo foi tão forte que a casa de palha voou pelos ares como um monte de folhas! Palha pra lá, palha pra cá! Pipoca saiu correndo o mais rápido que pôde e gritou: Irmão Tambor! Me ajuda! O lobo está atrás de mim!"
+  },
+  {
+    "id": "s11",
+    "title": "Pergunta2",
+    "pause_after": 2.0,
+    "text": "Pipoca chegou ofegante na casa de madeira. Será que a casa de madeira vai aguentar o sopro do lobo? O que você acha? Sim ou não? Grita comigo a sua opinião!"
+  },
+  {
+    "id": "s12",
+    "title": "CasaMadeira",
+    "pause_after": 0.4,
+    "text": "Pipoca entrou rapidinho na casa de Tambor. Os dois trancaram a porta. O lobo bateu de novo: Porquinhos, porquinhos, deixem eu entrar! Eles responderam juntos: Não, não, e não! E o lobo cantou mais alto: Eu sopro, eu sopro, e a casa cai! Fuuuuuuh! A madeira estalou, as tábuas tremeram… e a casa caiu com um baita barulho!"
+  },
+  {
+    "id": "s13",
+    "title": "FugaTijolos",
+    "pause_after": 0.5,
+    "text": "Os dois irmãos correram, correram, correram pelo caminho de pedrinhas… até a casa forte e vermelhinha de Tijolinho! Ele abriu a porta pesada e disse: Entram rápido, meus irmãos! Aqui estamos seguros! Trancou a porta com chave, tranca e um abraço apertado."
+  },
+  {
+    "id": "s14",
+    "title": "Pergunta3",
+    "pause_after": 2.0,
+    "text": "Agora o lobo está lá fora, furioso, bufando diante da casa de tijolos. Será que ele consegue derrubar ESTA casa? Respira fundo… conta até três… e grita o seu palpite bem alto!"
+  },
+  {
+    "id": "s15",
+    "title": "TijolosResistem",
+    "pause_after": 0.5,
+    "text": "Eu sopro, eu sopro, e a casa cai! O lobo soprou uma vez… a casa nem balançou. Soprou duas vezes… nada! Soprou três vezes com toda a força do mundo… FUUUUUU! Mas a casa de tijolos NÃO caiu! Tijolinho tinha feito um trabalho incrível, tijolo por tijolo."
+  },
+  {
+    "id": "s15b",
+    "title": "LoboTeima",
+    "pause_after": 0.5,
+    "text": "O lobo não desistiu. Ele empurrou a porta. Empurrou a janela. Até deu um tapa no muro! Mas a casa firme só respondeu com um silêncio corajoso. Lá dentro, os três porquinhos se olharam e sorriram: estamos juntos!"
+  },
+  {
+    "id": "s16",
+    "title": "Chamine",
+    "pause_after": 0.5,
+    "text": "Então o lobo teve outra ideia espertalhona: Vou entrar pela chaminé! Ele subiu no telhado bem devagar. Mas Tijolinho era mais esperto ainda. Acendeu um foguinho seguro na lareira e colocou uma panela grande com água quentinha. Quando o lobo desceu pela chaminé… ai, ai, ai! Sentiu o calor, deu um pulão enorme e saiu correndo pela floresta, sem olhar pra trás!"
+  },
+  {
+    "id": "s17",
+    "title": "FinalFeliz",
+    "pause_after": 0.5,
+    "text": "Os três porquinhos se abraçaram felizes no meio da sala. Pipoca pediu desculpas por ter tido tanta pressa. Tambor também pediu desculpas. E Tijolinho disse com um sorrisão: Agora vamos reforçar tudo juntos… com carinho, paciência e muita união! E assim fizeram uma festa com sopa quente, pão fresquinho e muitas risadas."
+  },
+  {
+    "id": "s18",
+    "title": "MoralCTA",
+    "pause_after": 0.8,
+    "text": "E a lição desta história é: fazer as coisas com cuidado vale a pena. Ter pressa demais pode trazer problemas… mas juntos, com amor e trabalho, a gente fica mais forte! Se você gostou, pede pra mamãe ou papai deixar o joinha, se inscrever no canal, e comentar aqui: qual porquinho foi o seu favorito? Pipoca, Tambor ou Tijolinho? Até a próxima história! Tchau, tchau, amiguinho!"
+  }
+]
