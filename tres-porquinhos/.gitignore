@@ -1,0 +1,8 @@
+build/clips_*/
+build/video_*.mp4
+build/audio_mixed_*.m4a
+build/concat_*.txt
+build/*.still.jpg
+__pycache__/
+*.pyc
+.DS_Store
