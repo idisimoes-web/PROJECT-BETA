@@ -10,3 +10,7 @@ Pacote completo para YouTube + TikTok em `tres-porquinhos/`:
 - Roteiro, pesquisa de tendências e guia de postagem
 
 Veja `tres-porquinhos/README.md`.
+
+## Nova versão 2D com vozes por personagem
+
+Ver `tres-porquinhos/v2/` — cartoon 2D, cada personagem com voz própria (~5:18).
