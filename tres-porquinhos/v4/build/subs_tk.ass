@@ -1,0 +1,172 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,2,70,70,240,1
+Style: Tag,DejaVu Sans Bold,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,40,40,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.32,Default,,0,0,0,,Olá! Eu sou o Pipoca!
+Dialogue: 1,0:00:00.00,0:00:02.32,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:00:02.57,0:00:04.50,Default,,0,0,0,,Eu sou o Tambor!
+Dialogue: 1,0:00:02.57,0:00:04.50,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:00:04.70,0:00:07.07,Default,,0,0,0,,E eu sou o Tijolinho!
+Dialogue: 1,0:00:04.70,0:00:07.07,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:00:07.32,0:00:10.26,Default,,0,0,0,,Hoje a gente vai construir\Nnossas casinhas!
+Dialogue: 1,0:00:07.32,0:00:10.26,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:00:10.61,0:00:14.20,Default,,0,0,0,,Meus filhos queridos… já\Nestão crescidos.
+Dialogue: 1,0:00:10.61,0:00:14.20,Tag,,0,0,0,,MAMAE
+Dialogue: 0,0:00:14.45,0:00:18.49,Default,,0,0,0,,Chegou a hora de cada um\Nconstruir a própria casinha!
+Dialogue: 1,0:00:14.45,0:00:18.49,Tag,,0,0,0,,MAMAE
+Dialogue: 0,0:00:18.79,0:00:22.89,Default,,0,0,0,,Oba! Eu quero uma casa bem\Nrápida… pra brincar o dia\Ninteiro!
+Dialogue: 1,0:00:18.79,0:00:22.89,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:00:23.14,0:00:27.09,Default,,0,0,0,,Eu vou de madeira! Tóc, tóc,\Ntóc!
+Dialogue: 1,0:00:23.14,0:00:27.09,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:00:27.34,0:00:32.70,Default,,0,0,0,,Eu vou com calma. Quero uma\Ncasa bem firme… de tijolos.
+Dialogue: 1,0:00:27.34,0:00:32.70,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:00:33.00,0:00:38.07,Default,,0,0,0,,Paciência e carinho fazem a\Nmelhor casa. Eu amo vocês!
+Dialogue: 1,0:00:33.00,0:00:38.07,Tag,,0,0,0,,MAMAE
+Dialogue: 0,0:00:38.47,0:00:41.92,Default,,0,0,0,,Eu adoro brincar, pular\Npoças e cantar bem alto!
+Dialogue: 1,0:00:38.47,0:00:41.92,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:00:42.22,0:00:46.50,Default,,0,0,0,,Eu adoro fazer barulho de\Nmartelo e construir coisas\Ndivertidas!
+Dialogue: 1,0:00:42.22,0:00:46.50,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:00:46.80,0:00:51.47,Default,,0,0,0,,Eu gosto de pensar com\Ncalma… e fazer tudo bem\Ncaprichado.
+Dialogue: 1,0:00:46.80,0:00:51.47,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:00:51.82,0:00:55.93,Default,,0,0,0,,Cada um do seu jeitinho… e\Ntodos especiais!
+Dialogue: 1,0:00:51.82,0:00:55.93,Tag,,0,0,0,,MAMAE
+Dialogue: 0,0:00:56.33,0:00:58.62,Default,,0,0,0,,Palha é leve, palha é fácil!
+Dialogue: 1,0:00:56.33,0:00:58.62,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:00:58.82,0:01:02.84,Default,,0,0,0,,Pronto! Minha casinha está\Npronta! Hora de pular e\Ncantar!
+Dialogue: 1,0:00:58.82,0:01:02.84,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:01:03.19,0:01:07.47,Default,,0,0,0,,Olha só: paredes de palha,\Nteto de palha… perfeito para\Numa soneca!
+Dialogue: 1,0:01:03.19,0:01:07.47,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:01:07.82,0:01:10.38,Default,,0,0,0,,Madeira é mais forte que\Npalha!
+Dialogue: 1,0:01:07.82,0:01:10.38,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:01:10.58,0:01:14.27,Default,,0,0,0,,Martelo pra lá, martelo pra\Ncá… e pronto!
+Dialogue: 1,0:01:10.58,0:01:14.27,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:01:14.57,0:01:20.36,Default,,0,0,0,,Minha porta faz tric-trac!\NQuer ver? Tric! Trac!
+Dialogue: 1,0:01:14.57,0:01:20.36,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:01:20.71,0:01:24.78,Default,,0,0,0,,Devagar e com carinho… a\Ncasinha fica firmizinha.
+Dialogue: 1,0:01:20.71,0:01:24.78,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:01:25.03,0:01:28.79,Default,,0,0,0,,Um tijolo… outro tijolo…\Nquase lá…
+Dialogue: 1,0:01:25.03,0:01:28.79,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:01:29.04,0:01:33.92,Default,,0,0,0,,Cada tijolo no lugar\Ncertinho… assim a casa fica\Namiga da gente.
+Dialogue: 1,0:01:29.04,0:01:33.92,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:01:34.32,0:01:39.85,Default,,0,0,0,,Pronto! Casa de tijolos:\Nforte, quentinha e segura!
+Dialogue: 1,0:01:34.32,0:01:39.85,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:01:40.25,0:01:43.36,Default,,0,0,0,,Amiguinho… qual casa você\Nacha mais segura?
+Dialogue: 1,0:01:40.25,0:01:43.36,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:01:43.56,0:01:46.98,Default,,0,0,0,,A de palha, a de madeira… ou\Na de tijolo?
+Dialogue: 1,0:01:43.56,0:01:46.98,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:01:47.18,0:01:50.72,Default,,0,0,0,,Pensa bem… e grita a sua\Nresposta!
+Dialogue: 1,0:01:47.18,0:01:50.72,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:01:52.42,0:01:54.71,Default,,0,0,0,,Tambor! Vamos dançar!
+Dialogue: 1,0:01:52.42,0:01:54.71,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:01:54.86,0:01:59.37,Default,,0,0,0,,Vamos! Um, dois, três… e\Npula!
+Dialogue: 1,0:01:54.86,0:01:59.37,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:01:59.62,0:02:03.37,Default,,0,0,0,,Eu só vou arrumar as\Ncortinas… e já brinco!
+Dialogue: 1,0:01:59.62,0:02:03.37,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:02:03.72,0:02:07.19,Default,,0,0,0,,Hmm… que cheirinho gostoso…
+Dialogue: 1,0:02:03.72,0:02:07.19,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:07.44,0:02:11.39,Default,,0,0,0,,Porquinhos fresquinhos… que\Ndelícia!
+Dialogue: 1,0:02:07.44,0:02:11.39,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:11.74,0:02:19.41,Default,,0,0,0,,Toc, toc, toc! Porquinho,\Nporquinho… deixa eu entrar!
+Dialogue: 1,0:02:11.74,0:02:19.41,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:19.66,0:02:23.01,Default,,0,0,0,,Não, não, e não! Nem pelo\Ncabelo do meu queixo!
+Dialogue: 1,0:02:19.66,0:02:23.01,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:02:23.26,0:02:28.84,Default,,0,0,0,,Então… eu sopro, eu sopro, e\Na casa cai!
+Dialogue: 1,0:02:23.26,0:02:28.84,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:29.04,0:02:31.10,Default,,0,0,0,,FUUUUU!
+Dialogue: 1,0:02:29.04,0:02:31.10,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:31.30,0:02:34.19,Default,,0,0,0,,Aaaaaah! Irmão Tambor, me\Najuda!
+Dialogue: 1,0:02:31.30,0:02:34.19,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:02:34.49,0:02:36.88,Default,,0,0,0,,Pipoca, entra rápido!
+Dialogue: 1,0:02:34.49,0:02:36.88,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:02:37.08,0:02:41.24,Default,,0,0,0,,Será que a casa de madeira\Naguenta? Sim ou não? Grita!
+Dialogue: 1,0:02:37.08,0:02:41.24,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:02:42.84,0:02:47.34,Default,,0,0,0,,Porquinhos, porquinhos…\Ndeixem eu entrar!
+Dialogue: 1,0:02:42.84,0:02:47.34,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:47.54,0:02:49.94,Default,,0,0,0,,Não, não, e não!
+Dialogue: 1,0:02:47.54,0:02:49.94,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:02:50.06,0:02:52.00,Default,,0,0,0,,Não, não, e não!
+Dialogue: 1,0:02:50.06,0:02:52.00,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:02:52.20,0:02:56.80,Default,,0,0,0,,Eu sopro, eu sopro, e a casa\Ncai!
+Dialogue: 1,0:02:52.20,0:02:56.80,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:56.95,0:02:59.15,Default,,0,0,0,,FUUUUUUH!
+Dialogue: 1,0:02:56.95,0:02:59.15,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:02:59.35,0:03:02.46,Default,,0,0,0,,A madeira estalou! Corre!
+Dialogue: 1,0:02:59.35,0:03:02.46,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:03:02.66,0:03:05.01,Default,,0,0,0,,Vamos para a casa do\NTijolinho!
+Dialogue: 1,0:03:02.66,0:03:05.01,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:03:05.26,0:03:10.77,Default,,0,0,0,,Entram rápido, meus irmãos!\NAqui estamos seguros!
+Dialogue: 1,0:03:05.26,0:03:10.77,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:03:11.02,0:03:14.01,Default,,0,0,0,,Ufa! Porta trancada!
+Dialogue: 1,0:03:11.02,0:03:14.01,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:03:14.21,0:03:17.44,Default,,0,0,0,,Obrigado, Tijolinho… você\Nsalvou a gente!
+Dialogue: 1,0:03:14.21,0:03:17.44,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:03:17.74,0:03:20.82,Default,,0,0,0,,Será que o lobo derruba ESTA\Ncasa?
+Dialogue: 1,0:03:17.74,0:03:20.82,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:03:21.02,0:03:23.00,Default,,0,0,0,,Grita o seu palpite!
+Dialogue: 1,0:03:21.02,0:03:23.00,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:03:24.60,0:03:29.20,Default,,0,0,0,,Eu sopro, eu sopro, e a casa\Ncai!
+Dialogue: 1,0:03:24.60,0:03:29.20,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:03:29.35,0:03:35.70,Default,,0,0,0,,FUUU! FUUUU! FUUUUUU!
+Dialogue: 1,0:03:29.35,0:03:35.70,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:03:35.95,0:03:39.42,Default,,0,0,0,,Olha só… a casa nem\Nbalançou!
+Dialogue: 1,0:03:35.95,0:03:39.42,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:03:39.62,0:03:42.40,Default,,0,0,0,,Os tijolos são fortes\Ndemais!
+Dialogue: 1,0:03:39.62,0:03:42.40,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:03:42.60,0:03:44.53,Default,,0,0,0,,Viva o Tijolinho!
+Dialogue: 1,0:03:42.60,0:03:44.53,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:03:44.83,0:03:52.31,Default,,0,0,0,,Não desisto! Empurro a\Nporta! Empurro a janela!
+Dialogue: 1,0:03:44.83,0:03:52.31,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:03:52.56,0:03:56.34,Default,,0,0,0,,Pode empurrar… aqui estamos\Njuntos e seguros.
+Dialogue: 1,0:03:52.56,0:03:56.34,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:03:56.64,0:04:00.61,Default,,0,0,0,,Então… vou entrar pela\Nchaminé!
+Dialogue: 1,0:03:56.64,0:04:00.61,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:04:00.86,0:04:05.94,Default,,0,0,0,,Rápido! Acende o foguinho… e\Ncoloca a panela!
+Dialogue: 1,0:04:00.86,0:04:05.94,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:04:06.14,0:04:08.08,Default,,0,0,0,,Panela pronta!
+Dialogue: 1,0:04:06.14,0:04:08.08,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:04:08.23,0:04:10.31,Default,,0,0,0,,Estou torcendo por nós!
+Dialogue: 1,0:04:08.23,0:04:10.31,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:04:10.51,0:04:19.81,Default,,0,0,0,,Ai! Ai! Ai! Quente demais!\NFugindo daqui!
+Dialogue: 1,0:04:10.51,0:04:19.81,Tag,,0,0,0,,LOBO MAU
+Dialogue: 0,0:04:20.16,0:04:23.22,Default,,0,0,0,,Desculpa, irmãos… eu tive\Nmuita pressa.
+Dialogue: 1,0:04:20.16,0:04:23.22,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:04:23.47,0:04:28.02,Default,,0,0,0,,Eu também. Da próxima vez,\Nfaço com mais cuidado.
+Dialogue: 1,0:04:23.47,0:04:28.02,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:04:28.27,0:04:32.96,Default,,0,0,0,,Agora vamos reforçar tudo\Njuntos… com carinho e união!
+Dialogue: 1,0:04:28.27,0:04:32.96,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:04:33.26,0:04:35.02,Default,,0,0,0,,Grupo de abraço!
+Dialogue: 1,0:04:33.26,0:04:35.02,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:04:35.14,0:04:37.06,Default,,0,0,0,,Grupo de abraço!
+Dialogue: 1,0:04:35.14,0:04:37.06,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:04:37.18,0:04:39.30,Default,,0,0,0,,Grupo de abraço!
+Dialogue: 1,0:04:37.18,0:04:39.30,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:04:39.65,0:04:45.32,Default,,0,0,0,,Vocês aprenderam que juntos\Nficam mais fortes. Estou tão\Norgulhosa!
+Dialogue: 1,0:04:39.65,0:04:45.32,Tag,,0,0,0,,MAMAE
+Dialogue: 0,0:04:45.72,0:04:49.09,Default,,0,0,0,,Da próxima vez eu ajudo o\NTijolinho desde o começo!
+Dialogue: 1,0:04:45.72,0:04:49.09,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:04:49.39,0:04:53.05,Default,,0,0,0,,E eu levo meu martelo… e\Ntambém minha paciência!
+Dialogue: 1,0:04:49.39,0:04:53.05,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:04:53.40,0:04:59.08,Default,,0,0,0,,Fazer com cuidado vale a\Npena. Juntos a gente fica\Nmais forte!
+Dialogue: 1,0:04:53.40,0:04:59.08,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:04:59.38,0:05:01.60,Default,,0,0,0,,Se gostou, deixa o joinha!
+Dialogue: 1,0:04:59.38,0:05:01.60,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:05:01.80,0:05:05.49,Default,,0,0,0,,Se inscreve… e comenta: quem\Nfoi seu favorito?
+Dialogue: 1,0:05:01.80,0:05:05.49,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:05:05.74,0:05:10.69,Default,,0,0,0,,Pipoca, Tambor ou Tijolinho?\NAté a próxima!
+Dialogue: 1,0:05:05.74,0:05:10.69,Tag,,0,0,0,,TIJOLINHO
+Dialogue: 0,0:05:10.94,0:05:14.79,Default,,0,0,0,,Que orgulho dos meus filhos!\NTchau, tchau!
+Dialogue: 1,0:05:10.94,0:05:14.79,Tag,,0,0,0,,MAMAE
+Dialogue: 0,0:05:15.19,0:05:16.44,Default,,0,0,0,,Tchau!
+Dialogue: 1,0:05:15.19,0:05:16.44,Tag,,0,0,0,,PIPOCA
+Dialogue: 0,0:05:16.54,0:05:18.48,Default,,0,0,0,,Tchau!
+Dialogue: 1,0:05:16.54,0:05:18.48,Tag,,0,0,0,,TAMBOR
+Dialogue: 0,0:05:18.58,0:05:22.37,Default,,0,0,0,,Eu volto outro dia… talvez!
+Dialogue: 1,0:05:18.58,0:05:22.37,Tag,,0,0,0,,LOBO MAU
