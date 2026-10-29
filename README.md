@@ -18,7 +18,10 @@ Ver `tres-porquinhos/v2/` — cartoon 2D, cada personagem com voz própria (~5:1
 ## Desenho falado (v3)
 
 Ver `tres-porquinhos/v3/` — personagens falam com vozes próprias + boca sincronizada (~5:04).
+<<<<<<< HEAD
 
 ## Estilo pré-escolar elaborado (v4)
 
 Ver `tres-porquinhos/v4/` — visual tipo série britânica pré-escolar (inspirado no estilo Peppa, personagens originais), ~5:23.
+=======
+>>>>>>> origin/main
