@@ -18,4 +18,3 @@ Ver `tres-porquinhos/v2/` — cartoon 2D, cada personagem com voz própria (~5:1
 ## Desenho falado (v3)
 
 Ver `tres-porquinhos/v3/` — personagens falam com vozes próprias + boca sincronizada (~5:04).
-
