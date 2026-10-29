@@ -1,0 +1,7 @@
+build/clips_*/
+build/raw_*.mp4
+build/video_*.mp4
+build/audio_*.m4a
+build/concat_*.txt
+build/*.jpg
+__pycache__/
