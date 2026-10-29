@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,4,0,2,60,60,260,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.03,Default,,0,0,0,,Eu sopro… eu sopro… e a\Ncasa caaaaai!
+Dialogue: 0,0:00:05.28,0:00:08.30,Default,,0,0,0,,Aiii! Não! Minha casinha\Nde palha!
+Dialogue: 0,0:00:08.50,0:00:11.75,Default,,0,0,0,,Alguém me ajuda! O lobo\Nmau está atrás de mim!
+Dialogue: 0,0:00:12.10,0:00:15.76,Default,,0,0,0,,Meus filhos queridos… já\Nestão crescidos.
+Dialogue: 0,0:00:15.96,0:00:20.10,Default,,0,0,0,,Chegou a hora de cada um\Nconstruir a própria\Ncasinha!
+Dialogue: 0,0:00:20.35,0:00:24.47,Default,,0,0,0,,Oba! Eu quero uma casa bem\Nrápida… pra eu brincar o\Ndia inteiro!
+Dialogue: 0,0:00:24.67,0:00:30.93,Default,,0,0,0,,Eu vou de madeira! Tóc,\Ntóc, tóc! Vai ficar forte\Ne divertida!
+Dialogue: 0,0:00:31.13,0:00:36.50,Default,,0,0,0,,Eu vou com calma. Quero\Numa casa bem firme… de\Ntijolos.
+Dialogue: 0,0:00:36.70,0:00:42.66,Default,,0,0,0,,Lembrem-se: paciência e\Ncarinho fazem a melhor\Ncasa. Eu amo vocês!
+Dialogue: 0,0:00:43.01,0:00:46.72,Default,,0,0,0,,Palha é leve, palha é\Nfácil! Um monte aqui…\Noutro ali…
+Dialogue: 0,0:00:46.92,0:00:50.89,Default,,0,0,0,,Pronto! Minha casinha está\Npronta! Hora de pular e\Ncantar!
+Dialogue: 0,0:00:51.19,0:00:55.58,Default,,0,0,0,,Madeira é mais forte que\Npalha! Olha que porta\Nlinda!
+Dialogue: 0,0:00:55.78,0:01:01.52,Default,,0,0,0,,Martelo pra lá, martelo\Npra cá… e pronto! Ainda dá\Ntempo de brincar!
+Dialogue: 0,0:01:01.82,0:01:05.90,Default,,0,0,0,,Devagar e com carinho… a\Ncasinha fica firmizinha.
+Dialogue: 0,0:01:06.10,0:01:09.85,Default,,0,0,0,,Um tijolo… outro tijolo…\Nquase lá…
+Dialogue: 0,0:01:10.10,0:01:15.63,Default,,0,0,0,,Pronto! Casa de tijolos:\Nforte, quentinha e segura!
+Dialogue: 0,0:01:15.98,0:01:19.05,Default,,0,0,0,,Amiguinho… qual casa você\Nacha mais segura?
+Dialogue: 0,0:01:19.25,0:01:22.65,Default,,0,0,0,,A de palha, a de madeira…\Nou a de tijolo?
+Dialogue: 0,0:01:22.85,0:01:26.38,Default,,0,0,0,,Pensa bem… e grita a sua\Nresposta!
+Dialogue: 0,0:01:27.98,0:01:30.23,Default,,0,0,0,,Tambor! Vamos dançar!
+Dialogue: 0,0:01:30.38,0:01:34.86,Default,,0,0,0,,Vamos! Um, dois, três… e\Npula!
+Dialogue: 0,0:01:35.06,0:01:39.59,Default,,0,0,0,,Eu só vou arrumar as\Ncortinas… e já brinco com\Nvocês!
+Dialogue: 0,0:01:39.94,0:01:43.50,Default,,0,0,0,,Hmm… que cheirinho\Ngostoso…
+Dialogue: 0,0:01:43.70,0:01:47.75,Default,,0,0,0,,Porquinhos fresquinhos…\Nque delícia!
+Dialogue: 0,0:01:48.10,0:01:55.96,Default,,0,0,0,,Toc, toc, toc! Porquinho,\Nporquinho… deixa eu\Nentrar!
+Dialogue: 0,0:01:56.16,0:01:59.44,Default,,0,0,0,,Não, não, e não! Nem pelo\Ncabelo do meu queixo!
+Dialogue: 0,0:01:59.69,0:02:05.42,Default,,0,0,0,,Então… eu sopro, eu sopro,\Ne a casa cai!
+Dialogue: 0,0:02:05.62,0:02:07.72,Default,,0,0,0,,FUUUUU!
+Dialogue: 0,0:02:07.92,0:02:11.92,Default,,0,0,0,,Aaaaaah! Minha casinha\Nvoou! Irmão Tambor, me\Najuda!
+Dialogue: 0,0:02:12.22,0:02:17.15,Default,,0,0,0,,Pipoca, entra rápido! Será\Nque a minha casa de\Nmadeira aguenta?
+Dialogue: 0,0:02:17.35,0:02:21.66,Default,,0,0,0,,Amiguinho… o que você\Nacha? Sim ou não? Grita\Ncomigo!
+Dialogue: 0,0:02:23.16,0:02:26.61,Default,,0,0,0,,Tranca a porta! Ele não\Nvai entrar!
+Dialogue: 0,0:02:26.81,0:02:31.43,Default,,0,0,0,,Porquinhos, porquinhos…\Ndeixem eu entrar!
+Dialogue: 0,0:02:31.63,0:02:34.05,Default,,0,0,0,,Não, não, e não!
+Dialogue: 0,0:02:34.15,0:02:35.90,Default,,0,0,0,,Não, não, e não!
+Dialogue: 0,0:02:36.10,0:02:40.82,Default,,0,0,0,,Eu sopro, eu sopro, e a\Ncasa cai!
+Dialogue: 0,0:02:40.97,0:02:43.22,Default,,0,0,0,,FUUUUUUH!
+Dialogue: 0,0:02:43.42,0:02:47.23,Default,,0,0,0,,A madeira estalou! Corre,\NPipoca!
+Dialogue: 0,0:02:47.38,0:02:50.39,Default,,0,0,0,,Vamos para a casa do\NTijolinho! Rápido!
+Dialogue: 0,0:02:50.64,0:02:56.15,Default,,0,0,0,,Entram rápido, meus\Nirmãos! Aqui estamos\Nseguros!
+Dialogue: 0,0:02:56.40,0:02:59.37,Default,,0,0,0,,Ufa! Porta trancada!
+Dialogue: 0,0:02:59.52,0:03:02.70,Default,,0,0,0,,Obrigado, Tijolinho… você\Nsalvou a gente!
+Dialogue: 0,0:03:03.00,0:03:07.55,Default,,0,0,0,,Amiguinho… será que o lobo\Nderruba ESTA casa de\Ntijolos?
+Dialogue: 0,0:03:07.75,0:03:10.84,Default,,0,0,0,,Respira fundo… e grita o\Nseu palpite!
+Dialogue: 0,0:03:12.34,0:03:17.06,Default,,0,0,0,,Eu sopro, eu sopro, e a\Ncasa cai!
+Dialogue: 0,0:03:17.21,0:03:23.73,Default,,0,0,0,,FUUU! FUUUU! FUUUUUU!
+Dialogue: 0,0:03:23.98,0:03:27.45,Default,,0,0,0,,Olha só… a casa nem\Nbalançou!
+Dialogue: 0,0:03:27.65,0:03:30.43,Default,,0,0,0,,Os tijolos são fortes\Ndemais!
+Dialogue: 0,0:03:30.58,0:03:32.51,Default,,0,0,0,,Viva o Tijolinho!
+Dialogue: 0,0:03:32.81,0:03:42.88,Default,,0,0,0,,Não desisto! Empurro a\Nporta! Empurro a janela!\NEmpurro o muro!
+Dialogue: 0,0:03:43.13,0:03:47.17,Default,,0,0,0,,Pode empurrar… aqui dentro\Nestamos juntos e seguros.
+Dialogue: 0,0:03:47.47,0:03:51.54,Default,,0,0,0,,Então… vou entrar pela\Nchaminé!
+Dialogue: 0,0:03:51.79,0:03:57.21,Default,,0,0,0,,Rápido! Acende o foguinho\Nseguro… e coloca a panela!
+Dialogue: 0,0:03:57.41,0:03:59.33,Default,,0,0,0,,Panela pronta!
+Dialogue: 0,0:03:59.45,0:04:01.48,Default,,0,0,0,,Estou torcendo por nós!
+Dialogue: 0,0:04:01.68,0:04:11.22,Default,,0,0,0,,Ai! Ai! Ai! Quente demais!\NFugindo daqui!
+Dialogue: 0,0:04:11.57,0:04:14.58,Default,,0,0,0,,Desculpa, irmãos… eu tive\Nmuita pressa.
+Dialogue: 0,0:04:14.78,0:04:19.29,Default,,0,0,0,,Eu também. Da próxima vez,\Nfaço com mais cuidado.
+Dialogue: 0,0:04:19.49,0:04:25.12,Default,,0,0,0,,Agora vamos reforçar tudo\Njuntos… com carinho,\Npaciência e união!
+Dialogue: 0,0:04:25.37,0:04:27.31,Default,,0,0,0,,Grupo de abraço!
+Dialogue: 0,0:04:27.41,0:04:29.28,Default,,0,0,0,,Grupo de abraço!
+Dialogue: 0,0:04:29.38,0:04:31.50,Default,,0,0,0,,Grupo de abraço!
+Dialogue: 0,0:04:31.85,0:04:37.53,Default,,0,0,0,,Fazer com cuidado vale a\Npena. Juntos a gente fica\Nmais forte!
+Dialogue: 0,0:04:37.78,0:04:41.27,Default,,0,0,0,,Se gostou, pede pra mamãe\Nou papai deixar o joinha!
+Dialogue: 0,0:04:41.47,0:04:45.52,Default,,0,0,0,,Se inscreve no canal… e\Ncomenta: quem foi seu\Nfavorito?
+Dialogue: 0,0:04:45.72,0:04:51.04,Default,,0,0,0,,Pipoca, Tambor ou\NTijolinho? Até a próxima\Nhistória!
+Dialogue: 0,0:04:51.29,0:04:53.22,Default,,0,0,0,,Tchau!
+Dialogue: 0,0:04:53.30,0:04:55.24,Default,,0,0,0,,Tchau!
+Dialogue: 0,0:04:55.32,0:04:59.22,Default,,0,0,0,,Eu volto outro dia…\Ntalvez!
+Dialogue: 0,0:04:59.47,0:05:04.04,Default,,0,0,0,,Que orgulho dos meus\Nfilhos! Tchau, tchau,\Namiguinhos!

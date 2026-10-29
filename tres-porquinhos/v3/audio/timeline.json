@@ -1,0 +1,705 @@
+{
+  "duration": 304.48800000000006,
+  "items": [
+    {
+      "id": "L001",
+      "who": "LOBO",
+      "bg": "floresta",
+      "text": "Eu sopro… eu sopro… e a casa caaaaai!",
+      "pause": 0.25,
+      "start": 0.0,
+      "end": 5.03,
+      "duration": 5.28
+    },
+    {
+      "id": "L002",
+      "who": "PIPOCA",
+      "bg": "palha",
+      "text": "Aiii! Não! Minha casinha de palha!",
+      "pause": 0.2,
+      "start": 5.28,
+      "end": 8.296,
+      "duration": 3.216
+    },
+    {
+      "id": "L003",
+      "who": "PIPOCA",
+      "bg": "palha",
+      "text": "Alguém me ajuda! O lobo mau está atrás de mim!",
+      "pause": 0.35,
+      "start": 8.496,
+      "end": 11.746,
+      "duration": 3.6
+    },
+    {
+      "id": "L004",
+      "who": "MAMAE",
+      "bg": "fazenda",
+      "text": "Meus filhos queridos… já estão crescidos.",
+      "pause": 0.2,
+      "start": 12.096,
+      "end": 15.76,
+      "duration": 3.864
+    },
+    {
+      "id": "L005",
+      "who": "MAMAE",
+      "bg": "fazenda",
+      "text": "Chegou a hora de cada um construir a própria casinha!",
+      "pause": 0.25,
+      "start": 15.96,
+      "end": 20.102,
+      "duration": 4.392
+    },
+    {
+      "id": "L006",
+      "who": "PIPOCA",
+      "bg": "fazenda",
+      "text": "Oba! Eu quero uma casa bem rápida… pra eu brincar o dia inteiro!",
+      "pause": 0.2,
+      "start": 20.352,
+      "end": 24.472,
+      "duration": 4.32
+    },
+    {
+      "id": "L007",
+      "who": "TAMBOR",
+      "bg": "fazenda",
+      "text": "Eu vou de madeira! Tóc, tóc, tóc! Vai ficar forte e divertida!",
+      "pause": 0.2,
+      "start": 24.672,
+      "end": 30.928,
+      "duration": 6.456
+    },
+    {
+      "id": "L008",
+      "who": "TIJOLINHO",
+      "bg": "fazenda",
+      "text": "Eu vou com calma. Quero uma casa bem firme… de tijolos.",
+      "pause": 0.2,
+      "start": 31.128,
+      "end": 36.496,
+      "duration": 5.568
+    },
+    {
+      "id": "L009",
+      "who": "MAMAE",
+      "bg": "fazenda",
+      "text": "Lembrem-se: paciência e carinho fazem a melhor casa. Eu amo vocês!",
+      "pause": 0.35,
+      "start": 36.696,
+      "end": 42.658,
+      "duration": 6.312
+    },
+    {
+      "id": "L010",
+      "who": "PIPOCA",
+      "bg": "palha",
+      "text": "Palha é leve, palha é fácil! Um monte aqui… outro ali…",
+      "pause": 0.2,
+      "start": 43.007999999999996,
+      "end": 46.72,
+      "duration": 3.912
+    },
+    {
+      "id": "L011",
+      "who": "PIPOCA",
+      "bg": "palha",
+      "text": "Pronto! Minha casinha está pronta! Hora de pular e cantar!",
+      "pause": 0.3,
+      "start": 46.919999999999995,
+      "end": 50.891999999999996,
+      "duration": 4.272
+    },
+    {
+      "id": "L012",
+      "who": "TAMBOR",
+      "bg": "madeira",
+      "text": "Madeira é mais forte que palha! Olha que porta linda!",
+      "pause": 0.2,
+      "start": 51.19199999999999,
+      "end": 55.57599999999999,
+      "duration": 4.584
+    },
+    {
+      "id": "L013",
+      "who": "TAMBOR",
+      "bg": "madeira",
+      "text": "Martelo pra lá, martelo pra cá… e pronto! Ainda dá tempo de brincar!",
+      "pause": 0.3,
+      "start": 55.775999999999996,
+      "end": 61.523999999999994,
+      "duration": 6.048
+    },
+    {
+      "id": "L014",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Devagar e com carinho… a casinha fica firmizinha.",
+      "pause": 0.2,
+      "start": 61.824,
+      "end": 65.896,
+      "duration": 4.272
+    },
+    {
+      "id": "L015",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Um tijolo… outro tijolo… quase lá…",
+      "pause": 0.25,
+      "start": 66.096,
+      "end": 69.854,
+      "duration": 4.008
+    },
+    {
+      "id": "L016",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Pronto! Casa de tijolos: forte, quentinha e segura!",
+      "pause": 0.35,
+      "start": 70.104,
+      "end": 75.634,
+      "duration": 5.88
+    },
+    {
+      "id": "L017",
+      "who": "PIPOCA",
+      "bg": "tres_casas",
+      "text": "Amiguinho… qual casa você acha mais segura?",
+      "pause": 0.2,
+      "start": 75.984,
+      "end": 79.04799999999999,
+      "duration": 3.264
+    },
+    {
+      "id": "L018",
+      "who": "TAMBOR",
+      "bg": "tres_casas",
+      "text": "A de palha, a de madeira… ou a de tijolo?",
+      "pause": 0.2,
+      "start": 79.24799999999999,
+      "end": 82.648,
+      "duration": 3.6
+    },
+    {
+      "id": "L019",
+      "who": "TIJOLINHO",
+      "bg": "tres_casas",
+      "text": "Pensa bem… e grita a sua resposta!",
+      "pause": 1.6,
+      "start": 82.84799999999998,
+      "end": 86.38399999999999,
+      "duration": 5.136
+    },
+    {
+      "id": "L020",
+      "who": "PIPOCA",
+      "bg": "grama",
+      "text": "Tambor! Vamos dançar!",
+      "pause": 0.15,
+      "start": 87.98399999999998,
+      "end": 90.23399999999998,
+      "duration": 2.4
+    },
+    {
+      "id": "L021",
+      "who": "TAMBOR",
+      "bg": "grama",
+      "text": "Vamos! Um, dois, três… e pula!",
+      "pause": 0.2,
+      "start": 90.38399999999999,
+      "end": 94.86399999999999,
+      "duration": 4.68
+    },
+    {
+      "id": "L022",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Eu só vou arrumar as cortinas… e já brinco com vocês!",
+      "pause": 0.35,
+      "start": 95.064,
+      "end": 99.586,
+      "duration": 4.872
+    },
+    {
+      "id": "L023",
+      "who": "LOBO",
+      "bg": "floresta",
+      "text": "Hmm… que cheirinho gostoso…",
+      "pause": 0.2,
+      "start": 99.93599999999999,
+      "end": 103.50399999999999,
+      "duration": 3.768
+    },
+    {
+      "id": "L024",
+      "who": "LOBO",
+      "bg": "floresta",
+      "text": "Porquinhos fresquinhos… que delícia!",
+      "pause": 0.35,
+      "start": 103.704,
+      "end": 107.746,
+      "duration": 4.392
+    },
+    {
+      "id": "L025",
+      "who": "LOBO",
+      "bg": "palha",
+      "text": "Toc, toc, toc! Porquinho, porquinho… deixa eu entrar!",
+      "pause": 0.2,
+      "start": 108.09599999999999,
+      "end": 115.96,
+      "duration": 8.064
+    },
+    {
+      "id": "L026",
+      "who": "PIPOCA",
+      "bg": "palha",
+      "text": "Não, não, e não! Nem pelo cabelo do meu queixo!",
+      "pause": 0.25,
+      "start": 116.16,
+      "end": 119.438,
+      "duration": 3.528
+    },
+    {
+      "id": "L027",
+      "who": "LOBO",
+      "bg": "palha",
+      "text": "Então… eu sopro, eu sopro, e a casa cai!",
+      "pause": 0.2,
+      "start": 119.688,
+      "end": 125.416,
+      "duration": 5.928
+    },
+    {
+      "id": "L028",
+      "who": "LOBO",
+      "bg": "palha",
+      "text": "FUUUUU!",
+      "pause": 0.2,
+      "start": 125.616,
+      "end": 127.72,
+      "duration": 2.304
+    },
+    {
+      "id": "L029",
+      "who": "PIPOCA",
+      "bg": "palha",
+      "text": "Aaaaaah! Minha casinha voou! Irmão Tambor, me ajuda!",
+      "pause": 0.3,
+      "start": 127.92,
+      "end": 131.916,
+      "duration": 4.296
+    },
+    {
+      "id": "L030",
+      "who": "TAMBOR",
+      "bg": "madeira",
+      "text": "Pipoca, entra rápido! Será que a minha casa de madeira aguenta?",
+      "pause": 0.2,
+      "start": 132.216,
+      "end": 137.15200000000002,
+      "duration": 5.136
+    },
+    {
+      "id": "L031",
+      "who": "PIPOCA",
+      "bg": "madeira",
+      "text": "Amiguinho… o que você acha? Sim ou não? Grita comigo!",
+      "pause": 1.5,
+      "start": 137.352,
+      "end": 141.66,
+      "duration": 5.808
+    },
+    {
+      "id": "L032",
+      "who": "TAMBOR",
+      "bg": "madeira",
+      "text": "Tranca a porta! Ele não vai entrar!",
+      "pause": 0.2,
+      "start": 143.16,
+      "end": 146.608,
+      "duration": 3.648
+    },
+    {
+      "id": "L033",
+      "who": "LOBO",
+      "bg": "madeira",
+      "text": "Porquinhos, porquinhos… deixem eu entrar!",
+      "pause": 0.2,
+      "start": 146.808,
+      "end": 151.432,
+      "duration": 4.824
+    },
+    {
+      "id": "L034",
+      "who": "TAMBOR",
+      "bg": "madeira",
+      "text": "Não, não, e não!",
+      "pause": 0.1,
+      "start": 151.632,
+      "end": 154.052,
+      "duration": 2.52
+    },
+    {
+      "id": "L035",
+      "who": "PIPOCA",
+      "bg": "madeira",
+      "text": "Não, não, e não!",
+      "pause": 0.2,
+      "start": 154.15200000000002,
+      "end": 155.89600000000002,
+      "duration": 1.944
+    },
+    {
+      "id": "L036",
+      "who": "LOBO",
+      "bg": "madeira",
+      "text": "Eu sopro, eu sopro, e a casa cai!",
+      "pause": 0.15,
+      "start": 156.096,
+      "end": 160.818,
+      "duration": 4.872
+    },
+    {
+      "id": "L037",
+      "who": "LOBO",
+      "bg": "madeira",
+      "text": "FUUUUUUH!",
+      "pause": 0.2,
+      "start": 160.96800000000002,
+      "end": 163.216,
+      "duration": 2.448
+    },
+    {
+      "id": "L038",
+      "who": "TAMBOR",
+      "bg": "madeira",
+      "text": "A madeira estalou! Corre, Pipoca!",
+      "pause": 0.15,
+      "start": 163.41600000000003,
+      "end": 167.22600000000003,
+      "duration": 3.96
+    },
+    {
+      "id": "L039",
+      "who": "PIPOCA",
+      "bg": "caminho",
+      "text": "Vamos para a casa do Tijolinho! Rápido!",
+      "pause": 0.25,
+      "start": 167.37600000000003,
+      "end": 170.39000000000004,
+      "duration": 3.264
+    },
+    {
+      "id": "L040",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Entram rápido, meus irmãos! Aqui estamos seguros!",
+      "pause": 0.25,
+      "start": 170.64000000000004,
+      "end": 176.15000000000003,
+      "duration": 5.76
+    },
+    {
+      "id": "L041",
+      "who": "TAMBOR",
+      "bg": "tijolos",
+      "text": "Ufa! Porta trancada!",
+      "pause": 0.15,
+      "start": 176.40000000000003,
+      "end": 179.37000000000003,
+      "duration": 3.12
+    },
+    {
+      "id": "L042",
+      "who": "PIPOCA",
+      "bg": "tijolos",
+      "text": "Obrigado, Tijolinho… você salvou a gente!",
+      "pause": 0.3,
+      "start": 179.52000000000004,
+      "end": 182.70000000000005,
+      "duration": 3.48
+    },
+    {
+      "id": "L043",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Amiguinho… será que o lobo derruba ESTA casa de tijolos?",
+      "pause": 0.2,
+      "start": 183.00000000000003,
+      "end": 187.55200000000002,
+      "duration": 4.752
+    },
+    {
+      "id": "L044",
+      "who": "TAMBOR",
+      "bg": "tijolos",
+      "text": "Respira fundo… e grita o seu palpite!",
+      "pause": 1.5,
+      "start": 187.75200000000004,
+      "end": 190.83600000000004,
+      "duration": 4.584
+    },
+    {
+      "id": "L045",
+      "who": "LOBO",
+      "bg": "tijolos",
+      "text": "Eu sopro, eu sopro, e a casa cai!",
+      "pause": 0.15,
+      "start": 192.33600000000004,
+      "end": 197.05800000000005,
+      "duration": 4.872
+    },
+    {
+      "id": "L046",
+      "who": "LOBO",
+      "bg": "tijolos",
+      "text": "FUUU! FUUUU! FUUUUUU!",
+      "pause": 0.25,
+      "start": 197.20800000000003,
+      "end": 203.72600000000003,
+      "duration": 6.768
+    },
+    {
+      "id": "L047",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Olha só… a casa nem balançou!",
+      "pause": 0.2,
+      "start": 203.97600000000003,
+      "end": 207.44800000000004,
+      "duration": 3.672
+    },
+    {
+      "id": "L048",
+      "who": "TAMBOR",
+      "bg": "tijolos",
+      "text": "Os tijolos são fortes demais!",
+      "pause": 0.15,
+      "start": 207.64800000000002,
+      "end": 210.42600000000002,
+      "duration": 2.928
+    },
+    {
+      "id": "L049",
+      "who": "PIPOCA",
+      "bg": "tijolos",
+      "text": "Viva o Tijolinho!",
+      "pause": 0.3,
+      "start": 210.57600000000002,
+      "end": 212.508,
+      "duration": 2.232
+    },
+    {
+      "id": "L050",
+      "who": "LOBO",
+      "bg": "tijolos",
+      "text": "Não desisto! Empurro a porta! Empurro a janela! Empurro o muro!",
+      "pause": 0.25,
+      "start": 212.80800000000002,
+      "end": 222.87800000000001,
+      "duration": 10.32
+    },
+    {
+      "id": "L051",
+      "who": "TIJOLINHO",
+      "bg": "tijolos",
+      "text": "Pode empurrar… aqui dentro estamos juntos e seguros.",
+      "pause": 0.3,
+      "start": 223.12800000000001,
+      "end": 227.17200000000003,
+      "duration": 4.344
+    },
+    {
+      "id": "L052",
+      "who": "LOBO",
+      "bg": "telhado",
+      "text": "Então… vou entrar pela chaminé!",
+      "pause": 0.25,
+      "start": 227.472,
+      "end": 231.542,
+      "duration": 4.32
+    },
+    {
+      "id": "L053",
+      "who": "TIJOLINHO",
+      "bg": "lareira",
+      "text": "Rápido! Acende o foguinho seguro… e coloca a panela!",
+      "pause": 0.2,
+      "start": 231.792,
+      "end": 237.208,
+      "duration": 5.616
+    },
+    {
+      "id": "L054",
+      "who": "TAMBOR",
+      "bg": "lareira",
+      "text": "Panela pronta!",
+      "pause": 0.12,
+      "start": 237.40800000000002,
+      "end": 239.328,
+      "duration": 2.04
+    },
+    {
+      "id": "L055",
+      "who": "PIPOCA",
+      "bg": "lareira",
+      "text": "Estou torcendo por nós!",
+      "pause": 0.2,
+      "start": 239.448,
+      "end": 241.48000000000002,
+      "duration": 2.232
+    },
+    {
+      "id": "L056",
+      "who": "LOBO",
+      "bg": "telhado",
+      "text": "Ai! Ai! Ai! Quente demais! Fugindo daqui!",
+      "pause": 0.35,
+      "start": 241.68,
+      "end": 251.21800000000002,
+      "duration": 9.888
+    },
+    {
+      "id": "L057",
+      "who": "PIPOCA",
+      "bg": "sala",
+      "text": "Desculpa, irmãos… eu tive muita pressa.",
+      "pause": 0.2,
+      "start": 251.568,
+      "end": 254.584,
+      "duration": 3.216
+    },
+    {
+      "id": "L058",
+      "who": "TAMBOR",
+      "bg": "sala",
+      "text": "Eu também. Da próxima vez, faço com mais cuidado.",
+      "pause": 0.2,
+      "start": 254.78400000000002,
+      "end": 259.288,
+      "duration": 4.704
+    },
+    {
+      "id": "L059",
+      "who": "TIJOLINHO",
+      "bg": "sala",
+      "text": "Agora vamos reforçar tudo juntos… com carinho, paciência e união!",
+      "pause": 0.25,
+      "start": 259.488,
+      "end": 265.118,
+      "duration": 5.88
+    },
+    {
+      "id": "L060",
+      "who": "PIPOCA",
+      "bg": "sala",
+      "text": "Grupo de abraço!",
+      "pause": 0.1,
+      "start": 265.368,
+      "end": 267.308,
+      "duration": 2.04
+    },
+    {
+      "id": "L061",
+      "who": "TAMBOR",
+      "bg": "sala",
+      "text": "Grupo de abraço!",
+      "pause": 0.1,
+      "start": 267.408,
+      "end": 269.276,
+      "duration": 1.968
+    },
+    {
+      "id": "L062",
+      "who": "TIJOLINHO",
+      "bg": "sala",
+      "text": "Grupo de abraço!",
+      "pause": 0.35,
+      "start": 269.37600000000003,
+      "end": 271.49800000000005,
+      "duration": 2.472
+    },
+    {
+      "id": "L063",
+      "who": "TIJOLINHO",
+      "bg": "final",
+      "text": "Fazer com cuidado vale a pena. Juntos a gente fica mais forte!",
+      "pause": 0.25,
+      "start": 271.848,
+      "end": 277.526,
+      "duration": 5.928
+    },
+    {
+      "id": "L064",
+      "who": "PIPOCA",
+      "bg": "final",
+      "text": "Se gostou, pede pra mamãe ou papai deixar o joinha!",
+      "pause": 0.2,
+      "start": 277.776,
+      "end": 281.272,
+      "duration": 3.696
+    },
+    {
+      "id": "L065",
+      "who": "TAMBOR",
+      "bg": "final",
+      "text": "Se inscreve no canal… e comenta: quem foi seu favorito?",
+      "pause": 0.2,
+      "start": 281.47200000000004,
+      "end": 285.52000000000004,
+      "duration": 4.248
+    },
+    {
+      "id": "L066",
+      "who": "TIJOLINHO",
+      "bg": "final",
+      "text": "Pipoca, Tambor ou Tijolinho? Até a próxima história!",
+      "pause": 0.25,
+      "start": 285.72,
+      "end": 291.038,
+      "duration": 5.568
+    },
+    {
+      "id": "L067",
+      "who": "PIPOCA",
+      "bg": "final",
+      "text": "Tchau!",
+      "pause": 0.08,
+      "start": 291.288,
+      "end": 293.224,
+      "duration": 2.016
+    },
+    {
+      "id": "L068",
+      "who": "TAMBOR",
+      "bg": "final",
+      "text": "Tchau!",
+      "pause": 0.08,
+      "start": 293.30400000000003,
+      "end": 295.24,
+      "duration": 2.016
+    },
+    {
+      "id": "L069",
+      "who": "LOBO",
+      "bg": "floresta",
+      "text": "Eu volto outro dia… talvez!",
+      "pause": 0.25,
+      "start": 295.32000000000005,
+      "end": 299.22200000000004,
+      "duration": 4.152
+    },
+    {
+      "id": "L070",
+      "who": "MAMAE",
+      "bg": "final",
+      "text": "Que orgulho dos meus filhos! Tchau, tchau, amiguinhos!",
+      "pause": 0.45,
+      "start": 299.47200000000004,
+      "end": 304.038,
+      "duration": 5.016
+    }
+  ]
+}
